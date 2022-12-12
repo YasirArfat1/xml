@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE aptech SYSTEM  "format.dtd" [
+<!ENTITY cp  "cpism">
+<!ENTITY ps  "pass1122">
+
+]>
+
+<aptech center="SFC">
+    <student>
+        <id>1</id>
+        <name>Hamza</name>
+        <class>&cp;</class>
+        <email domain="gmail">hamza@gmail.com</email>
+    </student>
+    
+    <student>
+        <id>1</id>
+        <name>Hamza</name>
+        <class>&cp;</class>
+        <number>0312-9939222</number>
+    </student>
+
+
+    <faculty semester="CPISM">
+        <name>Yasir</name>
+        <email domain="gmail">yair@gmail.com</email>
+        <password>12323</password>
+    </faculty>
+
+    <faculty>
+        <name>Yasir</name>
+        <email>yair@gmail.com</email>
+        <password>12323</password>
+    </faculty>
+
+
+    <faculty>
+        <name>Yasir</name>
+        <email>yair@gmail.com</email>
+        <password>12323</password>
+    </faculty>
+
+    <faculty>
+        <name>Yasir</name>
+        <email>yair@gmail.com</email>
+        <password>&ps;</password>
+    </faculty>
+
+    
+</aptech>
+   

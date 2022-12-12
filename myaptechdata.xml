@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<aptech xmlns="https://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://www.w3schools.com dataformating.xsd">
+   <student>
+
+    <name>Hamza Khan</name>
+    <number>0317-4455210</number>
+    <age>24</age>
+    <pass>true</pass>
+    <dob>1998-02-28</dob>
+    <time>00:01:00</time>
+   </student>
+
+
+   <student>
+    <name>Ali</name>
+    <email>ali@gmail.com</email>
+    <age>24</age>
+    <pass>true</pass>
+    <dob>1998-02-28</dob>
+    <time>00:01:00</time>
+   </student>
+
+
+
+   <faculty>
+
+   </faculty>
+
+   
+</aptech>

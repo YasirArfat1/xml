@@ -1,0 +1,18 @@
+
+    <!ELEMENT aptech (student+, faculty+)>
+    <!ELEMENT student (id,name,class,(email | number))>
+    <!ELEMENT faculty (name,email,password)>
+    <!ELEMENT id (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT class (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+    <!ELEMENT number (#PCDATA)>
+    <!ELEMENT password (#PCDATA)>
+
+    
+   
+
+    <!ATTLIST aptech center CDATA #REQUIRED>
+    <!ATTLIST faculty semester CDATA #IMPLIED>
+    <!ATTLIST email domain CDATA #FIXED "gmail">
+    

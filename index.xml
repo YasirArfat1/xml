@@ -1,0 +1,19 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<aptech xmlns:s='https://wwww.abc.com' xmlns:f='https://wwww.abc.com'>
+    <student semeseter="cpism" >
+        <s:name>Hamza</s:name>
+        <f:name>Janzaib</f:name>
+        <email>hamza@gmail.com</email>
+        <passwod>hamza1122</passwod>
+        <number>0312-3320651</number>
+    </student>
+
+    <student semeseter="dism" >
+        <s:name>Tarim</s:name>
+        <f:name>Anas</f:name>
+        <email>tarim@gmail.com</email>
+        <passwod>tarim122</passwod>
+        <number>0312-3321651</number>
+    </student>
+</aptech>
